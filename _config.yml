@@ -21,7 +21,7 @@ repository               : "julydarwin/panyuhr.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://s21.ax1x.com/2024/11/21/pAWb9Cq.jpg"
   name             : "番禺职称"
   pronouns         : "广州市番禺区"  
   bio              : #"Short biography for the left-hand sidebar"
