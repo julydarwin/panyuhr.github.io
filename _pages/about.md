@@ -11,6 +11,7 @@ redirect_from:
 
 [![pAWb9Cq.jpg](https://s21.ax1x.com/2024/11/21/pAWb9Cq.jpg)](https://imgse.com/i/pAWb9Cq)
 
+
 ## 准备阶段（上一年度申报结束后，下一年度申报开始前）
 
 主要流程：由于这一阶段时期，评委并未开评所以需要做的以准备工作为主。
