@@ -24,6 +24,7 @@ redirect_from:
 3、确认应当申报的评委、专业及申报方式后，若是需要通过**评审**方式进行申报则需上广东省继续教育网完成本年度至少满90个学时的继续教育学习。
 
 4、时刻留意广州市人社局官网上的 **[“评委会评审通知”](https://rsj.gz.gov.cn/ywzt/rcgz/gzzc/zcsb/pstz/gzsggzjpwhndpsgztz/)**，在本年度（2024年度）申报系统开放后可提前登录 **[“广州职称申报与管理系统”](https://gzrsj.rsj.gz.gov.cn/vsgzhr/login_home.aspx)** 填写基础信息。
+5、具体申报流程我可以点击**[“申报指引”](https://search.bilibili.com/all?keyword=%E5%B9%BF%E5%B7%9E%E8%81%8C%E7%A7%B0&from_source=webtop_search&spm_id_from=333.1387&search_source=5)**
 
 ## 注意事项
 
