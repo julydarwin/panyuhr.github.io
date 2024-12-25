@@ -24,12 +24,12 @@ redirect_from:
 
 4、时刻留意广州市人社局官网上的 **[“评委会评审通知”](https://rsj.gz.gov.cn/ywzt/rcgz/gzzc/zcsb/pstz/gzsggzjpwhndpsgztz/)**，在本年度（2024年度）申报系统开放后可提前登录 **[“广州职称申报与管理系统”](https://gzrsj.rsj.gz.gov.cn/vsgzhr/login_home.aspx)** 填写基础信息。
 
-5、具体申报流程可以点击 **[“广州职称申报指引”](https://www.bilibili.com/video/BV1CsCcYoE6k/?spm_id_from=333.337.search-card.all.click&vd_source=6831b530b6d44c37a00a08f8919a19ec)**包括(
-                      **[“全个申报流程”](https://www.bilibili.com/video/BV1fXCFYUEDd/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6831b530b6d44c37a00a08f8919a19ec)**
-                      **[“首次申报职称账号申请流程”](https://www.bilibili.com/video/BV1ZdCFY2EnE/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6831b530b6d44c37a00a08f8919a19ec)**
-                      **[“初次考核认定条件”](https://www.bilibili.com/video/BV1VWCFYzEPn/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6831b530b6d44c37a00a08f8919a19ec)**
-                      **[“职称评审路径选择”](https://www.bilibili.com/video/BV1G4CFYqENU/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6831b530b6d44c37a00a08f8919a19ec)**
-                      **[“申报内容填写操作流程”](https://www.bilibili.com/video/BV1G4CFYqEwB/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6831b530b6d44c37a00a08f8919a19ec)**)
+5、具体申报流程可以点击 **[“广州职称申报指引”](https://www.bilibili.com/video/BV1CsCcYoE6k/?spm_id_from=333.337.search-card.all.click&vd_source=6831b530b6d44c37a00a08f8919a19ec)** 其中包括(
+                      **[“直接跳转到 申报流程”](https://www.bilibili.com/video/BV1fXCFYUEDd/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6831b530b6d44c37a00a08f8919a19ec)**
+                      **[“直接跳转 首次申报职称账号申请流程”](https://www.bilibili.com/video/BV1ZdCFY2EnE/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6831b530b6d44c37a00a08f8919a19ec)**
+                      **[“直接跳转 初次考核认定条件”](https://www.bilibili.com/video/BV1VWCFYzEPn/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6831b530b6d44c37a00a08f8919a19ec)**
+                      **[“直接跳转 职称评审路径选择”](https://www.bilibili.com/video/BV1G4CFYqENU/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6831b530b6d44c37a00a08f8919a19ec)**
+                      **[“直接跳转 申报内容填写操作流程”](https://www.bilibili.com/video/BV1G4CFYqEwB/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6831b530b6d44c37a00a08f8919a19ec)**)
 
 ## 注意事项
 
