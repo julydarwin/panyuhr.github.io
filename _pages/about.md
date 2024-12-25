@@ -10,7 +10,7 @@ redirect_from:
 [![pAWb9Cq.jpg](https://s21.ax1x.com/2024/11/21/pAWb9Cq.jpg)](https://imgse.com/i/pAWb9Cq)
 
 
-## 准备申报阶段（上一年度申报结束后，下一年度申报开始前）**[“申报全流程图”](https://mp.weixin.qq.com/s/UhZcSlB7mSQ61naSD49x8g)**
+## 准备申报阶段（上一年度申报结束后，下一年度申报开始前）**[“申报全流程图”](https://mp.weixin.qq.com/s/UhZcSlB7mSQ61naSD49x8g" target="_blank)**
 
 
 **主要流程：** 由于这一阶段时期，评委并未开评所以需要做的以准备工作为主。
