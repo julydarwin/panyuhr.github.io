@@ -15,7 +15,7 @@ redirect_from:
 
 **主要流程：** 由于这一阶段时期，评委并未开评所以需要做的以准备工作为主。
 
-1、确认自己是否满足申报条件，计算自己取得上一职称后是不满足年限，**[“年限计算”](https://docs.qq.com/sheet/DYUVHUVNxY1dXWmxu?tab=BB08J2)**
+1、确认自己是否满足申报 **[“学历资历条件”](https://mp.weixin.qq.com/s/LtmsvJam8OQD-hVKdQNOAA)**，计算自己取得上一职称后是不满足年限，**[“年限计算”](https://docs.qq.com/sheet/DYUVHUVNxY1dXWmxu?tab=BB08J2)**
 
 2、开通法人单位账户，并提前与评委联系确认自己是否符合申报条件应当通过何种方式申报。（如何开通法人单位账户详见本公众号 **[“单位注册流程”](https://mp.weixin.qq.com/s/vaeMY4M0DnrCeKdG_0F27A)** ）
 
