@@ -29,7 +29,9 @@ redirect_from:
                       **[“初次考核认定条件”](https://www.bilibili.com/video/BV1VWCFYzEPn/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6831b530b6d44c37a00a08f8919a19ec)**
                       **[“职称评审路径选择”](https://www.bilibili.com/video/BV1G4CFYqENU/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6831b530b6d44c37a00a08f8919a19ec)**
                       **[“申报内容填写操作流程”](https://www.bilibili.com/video/BV1G4CFYqEwB/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6831b530b6d44c37a00a08f8919a19ec)**)
+
  **[“法人单位审核操作指引”](https://mp.weixin.qq.com/s/vA5zu-XR0A0KiXXQggu2qQ?token=1726945420&lang=zh_CN)**
+ 
 **注意事项**
 
 1、法人单位账户请尽早提前开通，在系统提交申请后请尽快联系我办34626612进行确认。
