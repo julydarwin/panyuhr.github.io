@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /legacy-guide/
 title: "职称申报准备工作内容"
 author_profile: true
 redirect_from: 
